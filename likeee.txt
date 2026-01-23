@@ -11,9 +11,9 @@
                     contain-intrinsic-size: 3000px 1500px
                }
           </style>
-          <link rel="alternate" hreflang="en" href="https://thelearningspace.edu.pk/affiliation.html" />
-          <link rel="alternate" hreflang="ar" href="https://thelearningspace.edu.pk/affiliation.html" />
-          <link rel="alternate" hreflang="x-default" href="https://thelearningspace.edu.pk/affiliation.html" />
+          <link rel="alternate" hreflang="en" href="https://thelearningspace.edu.pk/affiliation" />
+          <link rel="alternate" hreflang="ar" href="https://thelearningspace.edu.pk/affiliation" />
+          <link rel="alternate" hreflang="x-default" href="https://thelearningspace.edu.pk/affiliation" />
           <script data-cfasync="false" data-pagespeed-no-defer>
                var gtm4wp_datalayer_name = "dataLayer";
                var dataLayer = dataLayer || [];
@@ -26,14 +26,14 @@
           <meta name="keywords" content="KODE4D, situs togel, link togel, toto togel, togel online, togel resmi">
           <title>KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026</title>
           <meta name="description" content="Kode4D adalah daftar link situs slot gacor anti kalah bebas rungkad terbaru memiliki misi resmi sebagai agen slot88 terpercaya gampang menang hari 2026" />
-          <link rel="canonical" href="https://thelearningspace.edu.pk/affiliation.html" />
+          <link rel="canonical" href="https://thelearningspace.edu.pk/affiliation" />
           <link rel="amphtml" href="https://h-71.pages.dev/" />
           <link rel="icon" type="image/png" href="https://kode4dflight.com/favicon.png">
           <meta property="og:locale" content="en_US" />
           <meta property="og:type" content="KODE4D" />
           <meta property="og:title" content="KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026" />
           <meta property="og:description" content="Kode4D adalah daftar link situs slot gacor anti kalah bebas rungkad terbaru memiliki misi resmi sebagai agen slot88 terpercaya gampang menang hari 2026" />
-          <meta property="og:url" content="https://thelearningspace.edu.pk/affiliation.html" />
+          <meta property="og:url" content="https://thelearningspace.edu.pk/affiliation" />
           <meta property="og:site_name" content="KODE4D" />
           <meta property="article:modified_time" content="2025-12-18T16:57:45+00:00" />
           <meta property="og:image" content="https://ik.imagekit.io/itsx0vsds/e6.png" />
@@ -49,61 +49,61 @@
                     "@context": "https://schema.org",
                     "@graph": [{
                          "@type": "WebPage",
-                         "@id": "https://thelearningspace.edu.pk/affiliation.html#webpage",
-                         "url": "https://thelearningspace.edu.pk/affiliation.html",
+                         "@id": "https://thelearningspace.edu.pk/affiliation#webpage",
+                         "url": "https://thelearningspace.edu.pk/affiliation",
                          "name": "KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026",
                          "isPartOf": {
-                              "@id": "https://thelearningspace.edu.pk/affiliation.html#website"
+                              "@id": "https://thelearningspace.edu.pk/affiliation#website"
                          },
                          "primaryImageOfPage": {
-                              "@id": "https://thelearningspace.edu.pk/affiliation.html#primaryimage"
+                              "@id": "https://thelearningspace.edu.pk/affiliation#primaryimage"
                          },
                          "image": {
-                              "@id": "https://thelearningspace.edu.pk/affiliation.html#primaryimage"
+                              "@id": "https://thelearningspace.edu.pk/affiliation#primaryimage"
                          },
                          "thumbnailUrl": "https://ik.imagekit.io/itsx0vsds/e6.png",
                          "datePublished": "2023-02-11T17:59:03+00:00",
                          "dateModified": "2025-11-18T16:57:45+00:00",
                          "description": "Kode4D adalah daftar link situs slot gacor anti kalah bebas rungkad terbaru memiliki misi resmi sebagai agen slot88 terpercaya gampang menang hari 2026",
                          "breadcrumb": {
-                              "@id": "https://thelearningspace.edu.pk/affiliation.html#breadcrumb"
+                              "@id": "https://thelearningspace.edu.pk/affiliation#breadcrumb"
                          },
                          "inLanguage": "id-ID",
                          "potentialAction": [{
                               "@type": "ReadAction",
-                              "target": ["https://thelearningspace.edu.pk/affiliation.html"]
+                              "target": ["https://thelearningspace.edu.pk/affiliation"]
                          }]
                     }, {
                          "@type": "ImageObject",
                          "inLanguage": "id-ID",
-                         "@id": "https://thelearningspace.edu.pk/affiliation.html#primaryimage",
+                         "@id": "https://thelearningspace.edu.pk/affiliation#primaryimage",
                          "url": "https://ik.imagekit.io/itsx0vsds/e6.png",
                          "contentUrl": "https://ik.imagekit.io/itsx0vsds/e6.png",
                          "width": 2500,
                          "height": 2500
                     }, {
                          "@type": "BreadcrumbList",
-                         "@id": "https://thelearningspace.edu.pk/affiliation.html#breadcrumb",
+                         "@id": "https://thelearningspace.edu.pk/affiliation#breadcrumb",
                          "itemListElement": [{
                               "@type": "ListItem",
                               "position": 1,
                               "name": "Beranda",
-                              "item": "https://thelearningspace.edu.pk/affiliation.html"
+                              "item": "https://thelearningspace.edu.pk/affiliation"
                          }, {
                               "@type": "ListItem",
                               "position": 2,
                               "name": "Bandar Togel Online Resmi",
-                              "item": "https://thelearningspace.edu.pk/affiliation.html"
+                              "item": "https://thelearningspace.edu.pk/affiliation"
                          }, {
                               "@type": "ListItem",
                               "position": 3,
                               "name": "KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026",
-                              "item": "https://thelearningspace.edu.pk/affiliation.html"
+                              "item": "https://thelearningspace.edu.pk/affiliation"
                          }]
                     }, {
                          "@type": "WebSite",
-                         "@id": "https://thelearningspace.edu.pk/affiliation.html#website",
-                         "url": "https://thelearningspace.edu.pk/affiliation.html",
+                         "@id": "https://thelearningspace.edu.pk/affiliation#website",
+                         "url": "https://thelearningspace.edu.pk/affiliation",
                          "name": "KODE4D",
                          "alternateName": "Bandar Link Togel Online Resmi",
                          "description": "KODE4D merupakan situs toto terpercaya dan bandar togel online resmi dengan sistem aman, pasaran lengkap, transaksi cepat, serta layanan profesional untuk pengalaman bermain yang stabil setiap hari.",
@@ -112,7 +112,7 @@
                               "@type": "SearchAction",
                               "target": {
                                    "@type": "EntryPoint",
-                                   "urlTemplate": "https://thelearningspace.edu.pk/affiliation.html?s={search_term_string}"
+                                   "urlTemplate": "https://thelearningspace.edu.pk/affiliation?s={search_term_string}"
                               },
                               "query-input": {
                                    "@type": "PropertyValueSpecification",
@@ -126,7 +126,7 @@
           <link rel='dns-prefetch' href='//capi-automation.s3.us-east-2.amazonaws.com' />
           <link rel='dns-prefetch' href='//fonts.googleapis.com' />
           <link rel="alternate" type="application/rss+xml" title="KODE4D &raquo; Feed" href="https://enarat.ae/feed/" />
-          <link rel="alternate" type="application/rss+xml" title="KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026" href="view-source:https://thelearningspace.edu.pk/affiliation.html" />
+          <link rel="alternate" type="application/rss+xml" title="KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026" href="view-source:https://thelearningspace.edu.pk/affiliation" />
           <script data-cfasync="false" data-pagespeed-no-defer>
                var dataLayer_content = {
                     "visitorLoginState": "logged-out",
@@ -191,7 +191,7 @@
                     f.parentNode.insertBefore(j, f);
                })(window, document, 'script', 'dataLayer', 'GTM-P8CQ48X4');
           </script>
-          <link rel="alternate" type="application/rss+xml" title="KODE4D &raquo; KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026 Comments Feed" href="https://thelearningspace.edu.pk/affiliation.htmlfeed/" />
+          <link rel="alternate" type="application/rss+xml" title="KODE4D &raquo; KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026 Comments Feed" href="https://thelearningspace.edu.pk/affiliationfeed/" />
           <script id="wpml-cookie-js-extra">
                var wpml_cookies = {
                     "wp-wpml_current_language": {
@@ -323,10 +323,10 @@
           <link rel="modulepreload" href="https://enarat.ae/wp-content/plugins/advanced-coupons-for-woocommerce/dist/common/NoticesPlugin.cbb0e416.js" />
           <link rel="modulepreload" href="https://enarat.ae/wp-content/plugins/advanced-coupons-for-woocommerce-free/dist/common/NoticesPlugin.4b31c3cc.js" />
           <link rel="modulepreload" href="https://enarat.ae/wp-content/plugins/advanced-coupons-for-woocommerce/dist/common/NoticesPlugin.cbb0e416.js" />
-          <link rel="icon" href="https://thelearningspace.edu.pk/affiliation.htmlwp-content/uploads/2022/01/pstron-fav.png" sizes="32x32" />
-          <link rel="icon" href="https://thelearningspace.edu.pk/affiliation.htmlwp-content/uploads/2022/01/pstron-fav.png" sizes="192x192" />
-          <link rel="apple-touch-icon" href="https://thelearningspace.edu.pk/affiliation.htmlwp-content/uploads/2022/01/pstron-fav.png" />
-          <meta name="msapplication-TileImage" content="https://thelearningspace.edu.pk/affiliation.htmlwp-content/uploads/2022/01/pstron-fav.png" />
+          <link rel="icon" href="https://thelearningspace.edu.pk/affiliationwp-content/uploads/2022/01/pstron-fav.png" sizes="32x32" />
+          <link rel="icon" href="https://thelearningspace.edu.pk/affiliationwp-content/uploads/2022/01/pstron-fav.png" sizes="192x192" />
+          <link rel="apple-touch-icon" href="https://thelearningspace.edu.pk/affiliationwp-content/uploads/2022/01/pstron-fav.png" />
+          <meta name="msapplication-TileImage" content="https://thelearningspace.edu.pk/affiliationwp-content/uploads/2022/01/pstron-fav.png" />
           <script>
                window._tpt ?? = {};
                window.SR7 ?? = {};
@@ -735,9 +735,9 @@
                                              <div class="wd-header-nav wd-header-secondary-nav text-center" role="navigation" aria-label="Secondary navigation">
                                                   <ul id="menu-lang-switcher-ar-english" class="menu wd-nav wd-nav-secondary wd-style-default wd-gap-s">
                                                        <li id="menu-item-wpml-ls-3086-ar" class="menu-item wpml-ls-slot-3086 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-3086-ar item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a title="Switch to العربية" href="https://thelearningspace.edu.pk/affiliation.html" aria-label="Switch to العربية" role="menuitem" class="woodmart-nav-link">
+                                                            <a title="Switch to العربية" href="https://thelearningspace.edu.pk/affiliation" aria-label="Switch to العربية" role="menuitem" class="woodmart-nav-link">
                                                                  <span class="nav-link-text" style="display:flex;align-items:center;">
-                                                                      <img class="wpml-ls-flag" src="https://thelearningspace.edu.pk/affiliation.htmlwp-content/uploads/2022/01/pstron-fav.png" alt="" style="width:16px;height:auto;margin-right:6px;" />
+                                                                      <img class="wpml-ls-flag" src="https://thelearningspace.edu.pk/affiliationwp-content/uploads/2022/01/pstron-fav.png" alt="" style="width:16px;height:auto;margin-right:6px;" />
                                                                       <span class="wpml-ls-native" lang="id">Indonesia</span>
                                                                  </span>
                                                             </a>
@@ -757,7 +757,7 @@
                                                                                      {
                                                                                           "@type": "Product",
                                                                                           "@context": "https://schema.org",
-                                                                                          "url": "https://thelearningspace.edu.pk/affiliation.html",
+                                                                                          "url": "https://thelearningspace.edu.pk/affiliation",
                                                                                           "name": "KODE4D",
                                                                                           "sku": "889154",
                                                                                           "gtin": "n\/a",
@@ -902,42 +902,42 @@
                                                                                                "@type": "ListItem",
                                                                                                "position": 1,
                                                                                                "name": "KODE4D",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 2,
                                                                                                "name": "SITUS TOTO",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 3,
                                                                                                "name": "TOTO TOGEL",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 4,
                                                                                                "name": "TOTO MACAU",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 5,
                                                                                                "name": "SITUS TOGEL",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 6,
                                                                                                "name": "LINK TOGEL RESMI",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 7,
                                                                                                "name": "TOGEL ONLINE",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }, {
                                                                                                "@type": "ListItem",
                                                                                                "position": 8,
                                                                                                "name": "KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026",
-                                                                                               "item": "https://thelearningspace.edu.pk/affiliation.html"
+                                                                                               "item": "https://thelearningspace.edu.pk/affiliation"
                                                                                           }]
                                                                                      }
                                                                                 </script>
@@ -1034,7 +1034,7 @@
                                         </div>
                                         <div class="whb-column whb-col-center whb-visible-lg">
                                              <div class="wd-search-form wd-header-search-form wd-display-form whb-byuwf52twgalsziyn4o8">
-                                                  <form role="search" method="get" class="searchform  wd-style-default wd-cat-style-bordered woodmart-ajax-search" action="https://thelearningspace.edu.pk/affiliation.html" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+                                                  <form role="search" method="get" class="searchform  wd-style-default wd-cat-style-bordered woodmart-ajax-search" action="https://thelearningspace.edu.pk/affiliation" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
                                                        <input type="text" class="s" placeholder="SEARCH KODE4D DI GOOGLE!" value="" name="s" aria-label="Search" title="SEARCH KODE4D DI GOOGLE!" required />
                                                        <input type="hidden" name="post_type" value="product">
                                                        <button type="submit" class="searchsubmit">
@@ -1050,7 +1050,7 @@
                                         </div>
                                         <div class="whb-column whb-col-right whb-visible-lg">
                                              <div class="wd-header-wishlist wd-tools-element wd-style-icon wd-with-count wd-design-2 whb-nw21oy429cnh9rmrxd2s" title="My Wishlist">
-                                                  <a href="https://thelearningspace.edu.pk/affiliation.html" title="Wishlist products">
+                                                  <a href="https://thelearningspace.edu.pk/affiliation" title="Wishlist products">
                                                        <span class="wd-tools-icon">
                                                             <span class="wd-tools-count"> 0 </span>
                                                        </span>
@@ -1058,7 +1058,7 @@
                                                   </a>
                                              </div>
                                              <div class="wd-header-cart wd-tools-element wd-design-2 cart-widget-opener whb-wuxqjzzoophihrrirots">
-                                                  <a href="https://thelearningspace.edu.pk/affiliation.html" title="Shopping cart">
+                                                  <a href="https://thelearningspace.edu.pk/affiliation" title="Shopping cart">
                                                        <span class="wd-tools-icon">
                                                             <span class="wd-cart-number wd-tools-count">0 <span>items</span>
                                                             </span>
@@ -1093,7 +1093,7 @@
                                         </div>
                                         <div class="whb-column whb-mobile-right whb-hidden-lg">
                                              <div class="wd-header-wishlist wd-tools-element wd-style-icon wd-with-count wd-design-2 whb-7sw6g7im31042qmph150" title="My Wishlist">
-                                                  <a href="https://thelearningspace.edu.pk/affiliation.html" title="Wishlist products">
+                                                  <a href="https://thelearningspace.edu.pk/affiliation" title="Wishlist products">
                                                        <span class="wd-tools-icon">
                                                             <span class="wd-tools-count"> 0 </span>
                                                        </span>
@@ -1101,7 +1101,7 @@
                                                   </a>
                                              </div>
                                              <div class="wd-header-cart wd-tools-element wd-design-2 cart-widget-opener whb-vbchjj91jzgzh98m5vzl">
-                                                  <a href="https://thelearningspace.edu.pk/affiliation.html" title="Shopping cart">
+                                                  <a href="https://thelearningspace.edu.pk/affiliation" title="Shopping cart">
                                                        <span class="wd-tools-icon">
                                                             <span class="wd-cart-number wd-tools-count">0 <span>items</span>
                                                             </span>
@@ -1128,52 +1128,52 @@
                                              <div class="wd-header-nav wd-header-secondary-nav text-left" role="navigation" aria-label="Secondary navigation">
                                                   <ul id="menu-shop-categories-english" class="menu wd-nav wd-nav-secondary wd-style-default wd-gap-s">
                                                        <li id="menu-item-201787" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201787 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">KODE4D</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201786" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201786 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">SITUS TOGEL</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201785" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201785 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">TOTO TOGEL</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201792" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201792 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">LINK TOGEL</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201791" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor menu-item-201791 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">SITUS TOTO</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201793" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201793 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">SITUS HK POOLS ASLI</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201788" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201788 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">TOTO MACAU</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201790" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201790 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">SITUS HK</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201794" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201794 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">TOGEL ONLINE</span>
                                                             </a>
                                                        </li>
                                                        <li id="menu-item-201789" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-201789 item-level-0 menu-simple-dropdown wd-event-hover">
-                                                            <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                                                            <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                                                                  <span class="nav-link-text">SITUS HK POOLS</span>
                                                             </a>
                                                        </li>
@@ -1317,9 +1317,9 @@
                                                                            <div class="single-breadcrumbs">
                                                                                 <div class="wd-breadcrumbs">
                                                                                      <nav class="woocommerce-breadcrumb" aria-label="Breadcrumb">
-                                                                                          <a href="https://thelearningspace.edu.pk/affiliation.html" class="breadcrumb-link"> LINK TOGEL </a>
-                                                                                          <a href="https://thelearningspace.edu.pk/affiliation.html" class="breadcrumb-link"> SITUS TOGEL </a>
-                                                                                          <a href="https://thelearningspace.edu.pk/affiliation.html" class="breadcrumb-link breadcrumb-link-last"> TOTO TOGEL </a>
+                                                                                          <a href="https://thelearningspace.edu.pk/affiliation" class="breadcrumb-link"> LINK TOGEL </a>
+                                                                                          <a href="https://thelearningspace.edu.pk/affiliation" class="breadcrumb-link"> SITUS TOGEL </a>
+                                                                                          <a href="https://thelearningspace.edu.pk/affiliation" class="breadcrumb-link breadcrumb-link-last"> TOTO TOGEL </a>
                                                                                           <span class="breadcrumb-last"> KODE4D </span>
                                                                                      </nav>
                                                                                 </div>
@@ -1399,7 +1399,7 @@
                                                                           
                                                                       </div>
                                                                       <p class="stock in-stock wd-style-default">In stock</p>
-                                                                      <form class="cart" action="https://thelearningspace.edu.pk/affiliation.html" method="post" enctype='multipart/form-data'>
+                                                                      <form class="cart" action="https://thelearningspace.edu.pk/affiliation" method="post" enctype='multipart/form-data'>
                                                                            <div class="quantity">
                                                                                 <input type="button" value="-" class="minus" />
                                                                                 <label class="screen-reader-text" for="quantity_692141767b8bc">KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026 quantity</label>
@@ -1410,7 +1410,7 @@
                                                                            <input type="hidden" name="gtm4wp_product_data" value="{&quot;internal_id&quot;:189787,&quot;item_id&quot;:&quot;DL-TL-25-1L&quot;,&quot;item_name&quot;:&quot;KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026&quot;,&quot;sku&quot;:&quot;DL-TL-25-1L&quot;,&quot;price&quot;:216.9,&quot;stocklevel&quot;:10,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Table Lamps&quot;,&quot;id&quot;:&quot;DL-TL-25-1L&quot;}" />
                                                                       </form>
                                                                       <div class="wd-wishlist-btn wd-action-btn wd-style-text wd-wishlist-icon">
-                                                                           <a class="" href="https://thelearningspace.edu.pk/affiliation.html" data-key="aae2708fe2" data-product-id="189787" rel="nofollow" data-added-text="Browse Wishlist">
+                                                                           <a class="" href="https://thelearningspace.edu.pk/affiliation" data-key="aae2708fe2" data-product-id="189787" rel="nofollow" data-added-text="Browse Wishlist">
                                                                                 <span>Add to wishlist</span>
                                                                            </a>
                                                                       </div>
@@ -1421,7 +1421,7 @@
                                                                            </span>
                                                                            <span class="posted_in">
                                                                                 <span class="meta-label">JENIS PERMAINAN TOGEL:</span>
-                                                                                <a href="https://thelearningspace.edu.pk/affiliation.html" rel="tag">TOGEL ONLINE</a>
+                                                                                <a href="https://thelearningspace.edu.pk/affiliation" rel="tag">TOGEL ONLINE</a>
                                                                            </span>
                                                                       </div>
                                                                       <div class=" wd-social-icons  icons-design-default icons-size-small color-scheme-dark social-follow social-form-circle product-share wd-layout-inline text-left">
@@ -1617,7 +1617,7 @@
                                                             <div class="wd-product wd-with-labels wd-hover-standard product-grid-item product type-product post-193309 status-publish last instock product_cat-table-lamps-table-and-floor-lamps has-post-thumbnail sale purchasable product-type-simple" data-loop="1" data-id="193309">
                                                                  <div class="product-wrapper">
                                                                       <div class="product-element-top wd-quick-shop">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html" class="product-image-link">
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation" class="product-image-link">
                                                                                 <div class="product-labels labels-rounded">
                                                                                      <span class="onsale product-label">-23%</span>
                                                                                 </div>
@@ -1625,17 +1625,17 @@
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="193309">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="193309">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
-                                                                                     <a class="" href="https://thelearningspace.edu.pk/affiliation.html" data-key="aae2708fe2" data-product-id="193309" rel="nofollow" data-added-text="Browse Wishlist">
+                                                                                     <a class="" href="https://thelearningspace.edu.pk/affiliation" data-key="aae2708fe2" data-product-id="193309" rel="nofollow" data-added-text="Browse Wishlist">
                                                                                           <span>Add to wishlist</span>
                                                                                      </a>
                                                                                 </div>
                                                                            </div>
                                                                       </div>
                                                                       <h3 class="wd-entities-title">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html">Texa 1 Light Beige Table Lamp</a>
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation">Texa 1 Light Beige Table Lamp</a>
                                                                       </h3>
                                                                       <span class="price">
                                                                            <del aria-hidden="true">
@@ -1667,7 +1667,7 @@
                                                             <div class="wd-product wd-with-labels wd-hover-standard product-grid-item product type-product post-191731 status-publish first instock product_cat-table-lamps-table-and-floor-lamps has-post-thumbnail sale purchasable product-type-simple" data-loop="2" data-id="191731">
                                                                  <div class="product-wrapper">
                                                                       <div class="product-element-top wd-quick-shop">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html" class="product-image-link">
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation" class="product-image-link">
                                                                                 <div class="product-labels labels-rounded">
                                                                                      <span class="onsale product-label">-32%</span>
                                                                                 </div>
@@ -1675,7 +1675,7 @@
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="191731">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="191731">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                      <a class="" href="https://enarat.ae/product/toulouse-2-lights-whitey-table-lamp/" data-key="aae2708fe2" data-product-id="191731" rel="nofollow" data-added-text="Browse Wishlist">
@@ -1717,12 +1717,12 @@
                                                             <div class="wd-product wd-hover-standard product-grid-item product type-product post-189455 status-publish last instock product_cat-table-lamps-table-and-floor-lamps has-post-thumbnail purchasable product-type-simple" data-loop="3" data-id="189455">
                                                                  <div class="product-wrapper">
                                                                       <div class="product-element-top wd-quick-shop">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html" class="product-image-link">
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation" class="product-image-link">
                                                                                 <img width="600" height="600" src="https://ik.imagekit.io/itsx0vsds/e6.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://ik.imagekit.io/itsx0vsds/e6.png 600w, https://ik.imagekit.io/itsx0vsds/e6.png 300w, https://ik.imagekit.io/itsx0vsds/e6.png 1024w, https://ik.imagekit.io/itsx0vsds/e6.png 150w, https://ik.imagekit.io/itsx0vsds/e6.png 768w, https://ik.imagekit.io/itsx0vsds/e6.png 1200w" sizes="auto, (max-width: 600px) 100vw, 600px" />
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="189455">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="189455">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                      <a class="" href="https://enarat.ae/product/tara-1-light-gold-table-lamp/" data-key="aae2708fe2" data-product-id="189455" rel="nofollow" data-added-text="Browse Wishlist">
@@ -1754,7 +1754,7 @@
                                                             <div class="wd-product wd-with-labels wd-hover-standard product-grid-item product type-product post-192084 status-publish first instock product_cat-table-lamps-table-and-floor-lamps has-post-thumbnail sale purchasable product-type-simple" data-loop="4" data-id="192084">
                                                                  <div class="product-wrapper">
                                                                       <div class="product-element-top wd-quick-shop">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html" class="product-image-link">
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation" class="product-image-link">
                                                                                 <div class="product-labels labels-rounded">
                                                                                      <span class="onsale product-label">-17%</span>
                                                                                 </div>
@@ -1762,7 +1762,7 @@
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="192084">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="192084">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                      <a class="" href="https://enarat.ae/product/morroco-table-lamp/" data-key="aae2708fe2" data-product-id="192084" rel="nofollow" data-added-text="Browse Wishlist">
@@ -1804,12 +1804,12 @@
                                                             <div class="wd-product wd-hover-standard product-grid-item product type-product post-191894 status-publish last instock product_cat-table-lamps-table-and-floor-lamps has-post-thumbnail purchasable product-type-simple" data-loop="5" data-id="191894">
                                                                  <div class="product-wrapper">
                                                                       <div class="product-element-top wd-quick-shop">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html" class="product-image-link">
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation" class="product-image-link">
                                                                                 <img width="591" height="591" src="https://ik.imagekit.io/itsx0vsds/e6.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://ik.imagekit.io/itsx0vsds/e6.png 591w, https://ik.imagekit.io/itsx0vsds/e6.png 300w, https://ik.imagekit.io/itsx0vsds/e6.png 150w, https://ik.imagekit.io/itsx0vsds/e6.png 36w, https://ik.imagekit.io/itsx0vsds/e6.png 58w" sizes="auto, (max-width: 591px) 100vw, 591px" />
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="191894">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="191894">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                      <a class="" href="https://enarat.ae/product/moana-1-light-whiety-table-lamp/" data-key="aae2708fe2" data-product-id="191894" rel="nofollow" data-added-text="Browse Wishlist">
@@ -1896,7 +1896,7 @@
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="189619">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="189619">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                      <a class="" href="https://enarat.ae/product/kana-1-light-gold-table-lamp/" data-key="aae2708fe2" data-product-id="189619" rel="nofollow" data-added-text="Browse Wishlist">
@@ -1928,12 +1928,12 @@
                                                             <div class="wd-product wd-hover-standard product-grid-item product type-product post-189393 status-publish first instock product_cat-table-lamps-table-and-floor-lamps has-post-thumbnail purchasable product-type-simple" data-loop="8" data-id="189393">
                                                                  <div class="product-wrapper">
                                                                       <div class="product-element-top wd-quick-shop">
-                                                                           <a href="https://thelearningspace.edu.pk/affiliation.html" class="product-image-link">
+                                                                           <a href="https://thelearningspace.edu.pk/affiliation" class="product-image-link">
                                                                                 <img width="600" height="600" src="https://ik.imagekit.io/itsx0vsds/e6.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://ik.imagekit.io/itsx0vsds/e6.png 600w, https://ik.imagekit.io/itsx0vsds/e6.png 300w, https://ik.imagekit.io/itsx0vsds/e6.png 1024w, https://ik.imagekit.io/itsx0vsds/e6.png 150w, https://ik.imagekit.io/itsx0vsds/e6.png 768w, https://ik.imagekit.io/itsx0vsds/e6.png 1080w" sizes="auto, (max-width: 600px) 100vw, 600px" />
                                                                            </a>
                                                                            <div class="wd-buttons wd-pos-r-t">
                                                                                 <div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-                                                                                     <a href="https://thelearningspace.edu.pk/affiliation.html" class="open-quick-view quick-view-button" rel="nofollow" data-id="189393">Quick view</a>
+                                                                                     <a href="https://thelearningspace.edu.pk/affiliation" class="open-quick-view quick-view-button" rel="nofollow" data-id="189393">Quick view</a>
                                                                                 </div>
                                                                                 <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
                                                                                      <a class="" href="https://enarat.ae/product/runa-1-light-gold-table-lamp/" data-key="aae2708fe2" data-product-id="189393" rel="nofollow" data-added-text="Browse Wishlist">
@@ -2341,15 +2341,15 @@
                          </a>
                     </li>
                     <li id="menu-item-wpml-ls-2108-ar" class="menu-item wpml-ls-slot-2108 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-first-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2108-ar item-level-0">
-                         <a title="Switch to العربية" href="https://thelearningspace.edu.pk/affiliation.html" aria-label="Switch to العربية" role="menuitem" class="woodmart-nav-link">
+                         <a title="Switch to العربية" href="https://thelearningspace.edu.pk/affiliation" aria-label="Switch to العربية" role="menuitem" class="woodmart-nav-link">
                               <span class="nav-link-text" style="display:flex;align-items:center;">
-                                   <img class="wpml-ls-flag" src="https://thelearningspace.edu.pk/affiliation.htmlwp-content/uploads/2022/01/pstron-fav.png" alt="" style="width:16px;height:auto;margin-right:6px;" />
+                                   <img class="wpml-ls-flag" src="https://thelearningspace.edu.pk/affiliationwp-content/uploads/2022/01/pstron-fav.png" alt="" style="width:16px;height:auto;margin-right:6px;" />
                                    <span class="wpml-ls-native" lang="id">Indonesia</span>
                               </span>
                          </a>
                     </li>
                     <li class="menu-item menu-item-wishlist wd-with-icon item-level-0">
-                         <a href="https://thelearningspace.edu.pk/affiliation.html" class="woodmart-nav-link">
+                         <a href="https://thelearningspace.edu.pk/affiliation" class="woodmart-nav-link">
                               <span class="nav-link-text">Wishlist</span>
                          </a>
                     </li>
@@ -2378,7 +2378,7 @@
                </div>
                <div class="woocommerce-notices-wrapper"></div>
                <form method="post" class="login woocommerce-form woocommerce-form-login
-hidden-form     " action="https://thelearningspace.edu.pk/affiliation.html" style="display:none;">
+hidden-form     " action="https://thelearningspace.edu.pk/affiliation" style="display:none;">
                     <p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide form-row-username">
                          <label for="username">Username or email address&nbsp; <span class="required" aria-hidden="true">*</span>
                               <span class="screen-reader-text">Required</span>
@@ -2394,7 +2394,7 @@ hidden-form     " action="https://thelearningspace.edu.pk/affiliation.html" styl
                     <p class="form-row">
                          <input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="a4dcc93c60" />
                          <input type="hidden" name="_wp_http_referer" value="/product/bulbs-3-lights-gold-table-lamp/" />
-                         <input type="hidden" name="redirect" value="https://thelearningspace.edu.pk/affiliation.html" />
+                         <input type="hidden" name="redirect" value="https://thelearningspace.edu.pk/affiliation" />
                          <button type="submit" class="button woocommerce-button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
                     </p>
                     <p class="login-form-footer">
@@ -2426,7 +2426,7 @@ hidden-form     " action="https://thelearningspace.edu.pk/affiliation.html" styl
                                    <span class="woocommerce-Price-currencySymbol">AED</span>&nbsp;218 </span>
                          </span>
                          <p class="stock in-stock wd-style-default">In stock</p>
-                         <form class="cart" action="https://thelearningspace.edu.pk/affiliation.html" method="post" enctype='multipart/form-data'>
+                         <form class="cart" action="https://thelearningspace.edu.pk/affiliation" method="post" enctype='multipart/form-data'>
                               <div class="quantity">
                                    <input type="button" value="-" class="minus" />
                                    <label class="screen-reader-text" for="quantity_6921417705756">KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026 quantity</label>
@@ -2437,7 +2437,7 @@ hidden-form     " action="https://thelearningspace.edu.pk/affiliation.html" styl
                               <input type="hidden" name="gtm4wp_product_data" value="{&quot;internal_id&quot;:189787,&quot;item_id&quot;:&quot;DL-TL-25-1L&quot;,&quot;item_name&quot;:&quot;KODE4D : Link Slot Gacor Anti Kalah Agen Slot88 Terpercaya Hari Ini 2026&quot;,&quot;sku&quot;:&quot;DL-TL-25-1L&quot;,&quot;price&quot;:216.9,&quot;stocklevel&quot;:10,&quot;stockstatus&quot;:&quot;instock&quot;,&quot;google_business_vertical&quot;:&quot;retail&quot;,&quot;item_category&quot;:&quot;Table Lamps&quot;,&quot;id&quot;:&quot;DL-TL-25-1L&quot;}" />
                          </form>
                          <div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon wd-tooltip">
-                              <a class="" href="https://thelearningspace.edu.pk/affiliation.html" data-key="aae2708fe2" data-product-id="189787" rel="nofollow" data-added-text="Browse Wishlist">
+                              <a class="" href="https://thelearningspace.edu.pk/affiliation" data-key="aae2708fe2" data-product-id="189787" rel="nofollow" data-added-text="Browse Wishlist">
                                    <span>Add to wishlist</span>
                               </a>
                          </div>
@@ -2456,7 +2456,7 @@ hidden-form     " action="https://thelearningspace.edu.pk/affiliation.html" styl
                     </a>
                </div>
                <div class="wd-header-wishlist wd-tools-element wd-design-5" title="My wishlist">
-                    <a href="https://thelearningspace.edu.pk/affiliation.html">
+                    <a href="https://thelearningspace.edu.pk/affiliation">
                          <span class="wd-tools-icon">
                               <span class="wd-tools-count"> 0 </span>
                          </span>
